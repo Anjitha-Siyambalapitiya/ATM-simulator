@@ -25,22 +25,19 @@ A text editor or IDE (e.g., IntelliJ IDEA, Eclipse).
 ### Running the Project
 Clone the Repository:
 ```
-bash
-Copy code
+
 git clone https://github.com/yourusername/atm-simulator.git
 cd atm-simulator
 
 ```
 Compile the Java Files:
 ```
-bash
-Copy code
+
 javac *.java
 ```
 Run the Main Class:
 ```
-bash
-Copy code
+
 java ATM
 ```
 
